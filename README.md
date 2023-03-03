@@ -1,2 +1,4 @@
-# prepcurse-henrry
-este es mi repositorio de prueba 
+gonzalo ojeda
+
+este es mi trabajo incial aprendiendo 
+
